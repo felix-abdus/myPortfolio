@@ -249,6 +249,13 @@ h6,
     border-color 0.3s ease;
 }
 
+.evangadi-icon {
+  background-image: url(favicon.png) !important;
+  background-position: center;
+  background-repeat: no-repeat !important;
+  background-size: cover !important;
+}
+
 .glass-card:hover {
   transform: translateY(-5px);
   border-color: rgba(255, 255, 255, 0.1);
